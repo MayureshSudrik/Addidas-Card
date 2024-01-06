@@ -6,9 +6,7 @@ Hey there! 👋 This is my first project, and I'm excited to share it with you. 
 [![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/jigar-sable/Portfolio-Website/search?l=html)&nbsp;
 [![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/jigar-sable/Portfolio-Website/search?l=css)&nbsp;
 
-## Preview
-<br><br>
-Features<br><br>
+## Features<br>
 1.Clean and minimalistic layout.<br>
 2.Created with HTML and CSS, making it beginner-friendly.<br>
 3.Perfect for showcasing product details or use as a template.<br>
